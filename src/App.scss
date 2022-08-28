@@ -14,8 +14,8 @@
 }
 
 .container {
-  width: 35%;
-  height: 50%;
+  max-width: 700px;
+  min-height: 50%;
   background-color: white;
   border-radius: 20px;
   display: flex;
